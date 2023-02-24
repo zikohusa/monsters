@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  font-family: 'Berkshire Swash', cursive;
+  color: #60a7d3;
+  font-size: 60px;
+}
